@@ -45,6 +45,7 @@ main {
     background-color: black;
     margin-top: 10px;
     height: fit-content;
+    justify-content: center;
 }
 
 main img {
@@ -63,4 +64,6 @@ footer {
     grid-row: 2/4;
     grid-column: 1/2;
     border: 2px solid black;
+    width: 98%;
+    height: 950px;
 }
